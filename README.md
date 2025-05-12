@@ -5,19 +5,19 @@ This project simulates a real-world business case provided by Quantium, focusing
 # 📁 Project Structure
 
 **Task 1 – Data Preparation & Customer Analytics**
- 1. Cleaned and analyzed transactional datasets.
- 2. Identified customer segments based on chip purchase behavior.
- 3. Generated actionable insights into purchase frequency, average spend, and seasonal trends.
+- Cleaned and analyzed transactional datasets.
+- Identified customer segments based on chip purchase behavior.
+- Generated actionable insights into purchase frequency, average spend, and seasonal trends.
 
 **Task 2 – Experimentation & Uplift Testing**
- 1. Selected trial and control stores for layout change evaluation.
- 2. Performed statistical testing to measure the impact of new layouts on chip sales.
- 3. Visualized and interpreted uplift using pre- and post-trial data.
+- Selected trial and control stores for layout change evaluation.
+- Performed statistical testing to measure the impact of new layouts on chip sales.
+- Visualized and interpreted uplift using pre- and post-trial data.
 
 **Task 3 – Analytics & Commercial Application**
- 1. Synthesized findings from Tasks 1 and 2.
- 2. Created a business-focused report with recommendations for the Category Manager.
- 3. Suggested strategies to improve chip sales, including layout optimization and customer targeting.
+- Synthesized findings from Tasks 1 and 2.
+- Created a business-focused report with recommendations for the Category Manager.
+- Suggested strategies to improve chip sales, including layout optimization and customer targeting.
 
 # 📊 Tools & Technologies
 
@@ -28,8 +28,8 @@ This project simulates a real-world business case provided by Quantium, focusing
 
 # 📌 Key Outcomes
 
- 1. Improved understanding of chip-buying customer segments.
- 2. Measurable sales uplift from store layout changes.
- 3. Commercial recommendations ready for stakeholder presentation.
+- Improved understanding of chip-buying customer segments.
+- Measurable sales uplift from store layout changes.
+- Commercial recommendations ready for stakeholder presentation.
 
 
