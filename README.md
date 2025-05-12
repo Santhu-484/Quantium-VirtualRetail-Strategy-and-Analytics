@@ -1,7 +1,7 @@
-🛒 Quantium Virtual Internship – Retail Strategy and Analytics
+ # 🛒 Quantium Virtual Internship – Retail Strategy and Analytics
 This project simulates a real-world business case provided by Quantium, focusing on analyzing customer purchasing behavior in the Chips category at a supermarket chain. The insights help support data-driven decisions for retail strategy and category management.
 
-📁 Project Structure
+# 📁 Project Structure
 Task 1 – Data Preparation & Customer Analytics
 Cleaned and analyzed transactional datasets.
 
@@ -23,7 +23,7 @@ Created a business-focused report with recommendations for the Category Manager.
 
 Suggested strategies to improve chip sales, including layout optimization and customer targeting.
 
-📊 Tools & Technologies
+# 📊 Tools & Technologies
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 Jupyter Notebook
@@ -32,7 +32,7 @@ Statistical Testing (e.g., difference-in-differences analysis)
 
 Data Cleaning & Visualization
 
-📌 Key Outcomes
+# 📌 Key Outcomes
 Improved understanding of chip-buying customer segments.
 
 Measurable sales uplift from store layout changes.
